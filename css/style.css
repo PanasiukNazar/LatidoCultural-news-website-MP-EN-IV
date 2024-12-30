@@ -622,6 +622,7 @@ ul.dropdown-menu li {
     padding: 120px 0px;
     min-height: 800px;
 }
+
 .banner .block {
     padding-top: 120px;
 }
@@ -643,7 +644,7 @@ ul.dropdown-menu li {
 
 @media (max-width: 480px) {
     .banner .block h1 {
-        font-size: 38px;
+        font-size: 22px;
         line-height: 50px;
     }
     .banner {
@@ -663,7 +664,7 @@ ul.dropdown-menu li {
 }
 @media (max-width: 768px) {
     .banner .block h1 {
-        font-size: 56px;
+        font-size: 36px;
         line-height: 70px;
     }
     .banner {
